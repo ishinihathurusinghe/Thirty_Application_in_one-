@@ -2,8 +2,7 @@
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
-/*<applet code="Thirty_Application_in_one" width=500 height=500>
- </applet>*/
+
 class MyFrame1 extends Frame implements WindowListener,ActionListener
 { double weight,height,BMI;
   String means;
