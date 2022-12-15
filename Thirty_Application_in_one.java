@@ -1,4 +1,4 @@
-//30 Application in one
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
